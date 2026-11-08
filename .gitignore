@@ -1,0 +1,8 @@
+# Only the scripts and how to run them. run.sh recreates every output, key and data file.
+*
+!*/
+!*.py
+!*.sh
+!Dockerfile
+!README.md
+!.gitignore
